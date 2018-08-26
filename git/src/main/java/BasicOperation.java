@@ -12,5 +12,6 @@ public class BasicOperation {
         System.out.println("reset");
         System.out.println("撤销push");
         System.out.println("测试revert");
+        System.out.println("测试revert22");
     }
 }
