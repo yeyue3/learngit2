@@ -9,5 +9,8 @@ public class BasicOperation {
         System.out.println("git checkout");
         System.out.println("git checkout2");
         System.out.println();
+        System.out.println("reset");
+        System.out.println("撤销push");
+        System.out.println("测试revert");
     }
 }
