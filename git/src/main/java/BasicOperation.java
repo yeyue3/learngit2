@@ -8,5 +8,6 @@ public class BasicOperation {
         System.out.println("moon");
         System.out.println("git checkout");
         System.out.println("git checkout2");
+        System.out.println();
     }
 }
